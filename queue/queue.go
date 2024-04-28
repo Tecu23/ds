@@ -1,4 +1,5 @@
-// Package queue is the simple implementation of a queue
+// Package queue is the simple implementation of a queue. A queue is a first in first out
+// data structure.
 package queue
 
 type node struct {
